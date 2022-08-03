@@ -43,7 +43,7 @@
 ### Double Pendulum
 ![Double Pendulum](https://github.com/chaotic-society/chaotic-society.github.io/blob/main/gallery/physics/double_pendulum.png)
 
-![Double Pendulum Trajectories](https://github.com/chaotic-society/chaotic-society.github.io/blob/main/gallery/physics/double_pendulum_trajectories.png)
+![Double Pendulum Trajectories](https://github.com/chaotic-society/chaotic-society.github.io/blob/main/gallery/physics/double_pendulum_trajectories.PNG)
 
 
 ## Other
