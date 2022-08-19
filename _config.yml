@@ -1,2 +1,5 @@
 name: Stochastic Society for the Chaoticization of Simple Systems
+description: A small website showcasing our creations
+baseurl: ''
+url: "https://chaotic-society.github.io"
 theme: jekyll-theme-tactile
