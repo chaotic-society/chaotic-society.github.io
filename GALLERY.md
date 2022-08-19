@@ -1,10 +1,19 @@
-# Gallery
-
+---
+layout: page
+title: "Gallery"
+permalink: /gallery/
+---
 
 ## Fractals
 
 ### Mandelbrot set
 ![Mandelbrot](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/mandelbrot.png)
+
+### Newton's fractal
+![Newton](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/newton.png)
+
+### Sierpinski's triangle
+![Sierpinski](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/sierpinski.png)
 
 ### Mandelbar fractal
 ![Mandelbar 2](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/mandelbar.png)
