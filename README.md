@@ -1,6 +1,3 @@
-
-# Stochastic Society for the Chaoticization of Simple Systems
-
 ## Projects
 - ### Theoretica Math Library ([Repo](https://github.com/chaotic-society/theoretica), [Documentation](https://chaotic-society.github.io/theoretica/))
    A numerical and automatic mathematical library in C++ for scientific and graphical applications.
