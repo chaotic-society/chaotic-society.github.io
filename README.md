@@ -12,4 +12,4 @@ theme: jekyll-theme-tactile
    A testing and benchmarking framework specialized for mathematical functions.
 
 ## Other
-- ### [Image Gallery](https://chaotic-society.github.io/GALLERY)
+- ### [Image Gallery](https://chaotic-society.github.io/gallery)
