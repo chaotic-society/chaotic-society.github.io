@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Stochastic Society for the Chaoticization of Simple Systems"
 permalink: /
 ---
