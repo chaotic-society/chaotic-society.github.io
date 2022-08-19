@@ -1,4 +1,8 @@
-# Stochastic Society for the Chaoticization of Simple Systems
+---
+layout: page
+title: "Stochastic Society for the Chaoticization of Simple Systems"
+permalink: /home/
+---
 
 ## Projects
 - ### Theoretica Math Library ([Repo](https://github.com/chaotic-society/theoretica), [Documentation](https://chaotic-society.github.io/theoretica/))
