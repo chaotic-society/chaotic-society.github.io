@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Stochastic Society for the Chaoticization of Simple Systems"
-permalink: /home/
+permalink: /
 ---
 
 ## Projects
