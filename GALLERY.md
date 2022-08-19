@@ -3,6 +3,14 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
+## Fractal Art
+
+![Giulia's fractal](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/giulia.png)
+
+![Vortex](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/vortex.png)
+
+![Eeerie](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/eerie.png)
+
 ## Fractals
 
 ### Mandelbrot set
@@ -26,6 +34,7 @@ permalink: /gallery/
 
 
 ## Pseudorandom number generators
+These gray scale images were created using Theoretica's pseudorandom number generators, giving a visual intuition of their quality. The first one was created using the C languages's rand() function.
 
 ### C rand()
 ![C rand](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/c_rand.png)
