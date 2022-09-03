@@ -11,6 +11,10 @@ permalink: /gallery/
 
 ![Eeerie](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/eerie.png)
 
+![Wave](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/wave.png)
+
+![Forest](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/trees.png)
+
 # Fractals
 
 ## Mandelbrot set
