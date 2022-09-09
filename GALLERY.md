@@ -69,6 +69,16 @@ These gray scale images were created using Theoretica's pseudorandom number gene
 
 # Other
 
+## Voronoi diagrams
+### Euclidean distance
+![Voronoi Euclidean](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/voronoi_euclidean.png)
+### Manhattan distance
+![Voronoi Manhattan](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/voronoi_manhattan.png)
+### Chebyshev distance
+![Voronoi Chebyshev](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/voronoi_chebyshev.png)
+### Minkowski L9 distance
+![Voronoi L9](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/voronoi_L9.png)
+
 ## Bezier curve construction
 ![Bezier curve construction](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/bezier_animation.png)
 
