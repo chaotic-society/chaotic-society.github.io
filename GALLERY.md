@@ -3,7 +3,7 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-Most of these images were generated using Giulia, a CPU rendering framework available [here](https://github.com/chaotic-society/giulia);
+Most of these images were generated using Giulia, a CPU rendering framework available [here](https://github.com/chaotic-society/giulia).
 
 # Fractal Art
 
