@@ -13,6 +13,8 @@ Most of these images were generated using Giulia, a CPU rendering framework avai
 
 ![Eeerie](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/eerie.png)
 
+![Julia 8 dist](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/julia_8_dist.png)
+
 ![Wave](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/wave.png)
 
 ![Forest](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/trees.png)
@@ -24,6 +26,9 @@ Most of these images were generated using Giulia, a CPU rendering framework avai
 
 ## Newton's fractal
 ![Newton](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/newton.png)
+
+## Julia's power 8 fractal
+![Julia 8](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/julia_8.png)
 
 ## Sierpinski's triangle
 ![Sierpinski](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/sierpinski.png)
