@@ -43,27 +43,29 @@ Most of these images were generated using Giulia, a CPU rendering framework avai
 
 ![Julia Spiral 2](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/julia_spiral2.png)
 
+# Attractors
+These systems of differential equations were simulated using Theoretica's Attractor example program.
 
-# Pseudorandom number generators
-These gray scale images were created using Theoretica's pseudorandom number generators, giving a visual intuition of their quality. The first one was created using the C languages's rand() function.
+## Lorenz Attractor
+![Lorenz Attractor](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/physics/lorenz_attractor.png)
 
-## C rand()
-![C rand](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/c_rand.png)
+## Aizawa Attractor
+![Aizawa Attractor](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/physics/aizawa_attractor.png)
 
-## Linear Congruential
-![Linear Congruential](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/linear_congruential.png)
+## Van der Pol Attractor
+![Van der Pol Attractor](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/physics/van_der_pol.png)
 
-## Xoshiro
-![Xoshiro](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/xoshiro.png)
+## Arneodo Attractor
+![Arneodo Attractor](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/physics/arneodo_attractor.png)
 
-## Wyrand
-![Wyrand](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/wyrand.png)
+## Thomas Attractor
+![Thomas Attractor](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/physics/thomas_attractor.png)
 
-## Splitmix64
-![splitmix64](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/splitmix64.png)
+## Halvorsen Attractor
+![Halvorsen Attractor](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/physics/halvorsen_attractor.png)
 
-## Weyl
-![Weyl](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/weyl.png)
+## Rossler Attractor
+![Rossler Attractor](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/physics/rossler_attractor.png)
 
 
 # Physics
@@ -95,3 +97,25 @@ These gray scale images were created using Theoretica's pseudorandom number gene
 ![Lissajous curves 1/3](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/lissajous_1_3.png)
 
 ![Lissajous curves3/1](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/lissajous_3_1.png)
+
+
+# Pseudorandom number generators
+These gray scale images were created using Theoretica's pseudorandom number generators, giving a visual intuition of their quality. The first one was created using the C languages's rand() function.
+
+## C rand()
+![C rand](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/c_rand.png)
+
+## Linear Congruential
+![Linear Congruential](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/linear_congruential.png)
+
+## Xoshiro
+![Xoshiro](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/xoshiro.png)
+
+## Wyrand
+![Wyrand](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/wyrand.png)
+
+## Splitmix64
+![splitmix64](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/splitmix64.png)
+
+## Weyl
+![Weyl](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/weyl.png)
