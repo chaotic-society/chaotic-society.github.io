@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Society for the Chaoticization of Simple Systems"
+title: "Theoretica"
 permalink: /
 ---
 
