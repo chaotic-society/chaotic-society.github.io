@@ -8,8 +8,6 @@ permalink: /
    A numerical and automatic mathematical library in C++ for scientific and graphical applications.
 - ## Chebyshev Testing Framework ([Repo](https://github.com/chaotic-society/chebyshev))
    A testing and benchmarking framework specialized for mathematical functions.
-- ## Giulia ([Repo](https://github.com/chaotic-society/giulia))
-   A lightweight CPU rendering framework specialized in procedural art.
 
 # Other
 - ## [Image Gallery](https://chaotic-society.github.io/gallery)
