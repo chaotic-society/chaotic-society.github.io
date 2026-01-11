@@ -3,11 +3,9 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-Most of these images were generated using Giulia, a CPU rendering framework available [here](https://github.com/chaotic-society/giulia).
-
 # Fractal Art
 
-![Giulia's fractal](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/giulia.png)
+![Julia](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/giulia.png)
 
 ![Vortex](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/fractals/vortex.png)
 
@@ -97,25 +95,3 @@ These systems of differential equations were simulated using Theoretica's Attrac
 ![Lissajous curves 1/3](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/lissajous_1_3.png)
 
 ![Lissajous curves3/1](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/other/lissajous_3_1.png)
-
-
-# Pseudorandom number generators
-These gray scale images were created using Theoretica's pseudorandom number generators, giving a visual intuition of their quality. The first one was created using the C languages's rand() function.
-
-## C rand()
-![C rand](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/c_rand.png)
-
-## Linear Congruential
-![Linear Congruential](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/linear_congruential.png)
-
-## Xoshiro
-![Xoshiro](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/xoshiro.png)
-
-## Wyrand
-![Wyrand](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/wyrand.png)
-
-## Splitmix64
-![splitmix64](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/splitmix64.png)
-
-## Weyl
-![Weyl](https://github.com/chaotic-society/chaotic-society.github.io/raw/main/gallery/pseudorandom/weyl.png)
